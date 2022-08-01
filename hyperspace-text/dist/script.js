@@ -1,7 +1,4 @@
-/*
-  Johan Karlsson (DonKarlssonSan)
-  2022
-*/
+// developer utkarsh yadav
 class Particle {
   constructor(x, y) {
     this.pos = new Vector(x, y);
